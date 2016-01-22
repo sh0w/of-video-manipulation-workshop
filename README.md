@@ -2,9 +2,9 @@
 
 journées du code créatif #3, stereolux art and technology lab, nantes, france
 
-by sarah howorka
+sarah howorka
 
-## (more info soon!!)
+jan 2016
 
 ### introduction
 
@@ -14,10 +14,11 @@ in this workshop, we will explore ways of manipulating video in openframeworks w
 
 - [download openframeworks 0.9.0](http://openframeworks.cc/download/)
 - IDE installed + set up (e.g. XCode on Mac, Visual Studio on Windows, ...)
+- [OF tutorials "introduction" and "getting started"](http://openframeworks.cc/tutorials/)
 
-### we have two main goals today:
+### our goals today:
 
-- get excited about openframeworks and creative coding!!!
+- get excited about openframeworks and creative coding!
 - find out how much fun we can have with only a few lines of code :)
 
 ### questions we will explore:
